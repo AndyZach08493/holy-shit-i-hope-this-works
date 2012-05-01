@@ -1,0 +1,70 @@
+body
+{
+  background-color : white;
+  font-family      : Geneva, Arial, Helvetica, sans-serif;
+  font-size        : 90%;
+  margin-left      : 6%;
+  margin-right     : 6%;
+}
+
+h1
+{
+  text-align       : center;
+  font-size        : 160%;
+}
+
+h2
+{
+  text-align       : center;
+  font-size        : 140%;
+}
+
+h3
+{
+  text-align       : center;
+  font-size        : 120%;
+}
+
+h4
+{
+  text-align       : center;
+  font-size        : 100%;
+}
+
+ul
+{
+  margin           : 0px;
+  margin-left      : 6%;
+  padding-left     : 0px;
+  list-style       : none;
+}
+
+p
+{
+  margin-left      : 6%;
+}
+
+a
+{
+  text-decoration  : none;
+  color            : #00f;
+}
+
+a:visited
+{
+  color            : #00f;
+}
+
+li.def
+{
+  margin-left      : 6%;
+}
+
+.current {
+  color            : #f00;
+  font-style       : bold;
+}
+
+td {
+  padding          : 10px 25px;
+}

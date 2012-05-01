@@ -1,0 +1,7 @@
+\form#0:$n!$
+\form#1:$n \geq 0$
+\form#2:$f == (j-1)!$
+\form#3:$e^{x}$
+\form#4:$x$
+\form#5:\[t == \frac{x^{(k-1)}}{(k-1)!}\]
+\form#6:\[s == 1 + x + \frac{x^{2}}{2!} + \dots + \frac{x^{(k-1)}}{(k-1)!}\]

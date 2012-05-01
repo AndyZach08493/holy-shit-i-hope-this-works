@@ -1,0 +1,4 @@
+base referer
+rect $classListException.html 328,6 427,30
+rect $classStackException.html 321,54 433,78
+rect $classListIndexOutOfRangeException.html 489,102 695,126
