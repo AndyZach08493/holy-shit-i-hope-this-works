@@ -1,0 +1,3 @@
+Just an idea:
+
+When we're into development of an app or heavy coding project, instead of dumping all the debug/tracing info to the console, write it to a file "debug.log" or something of the sort. Much easier to work with a text file than the console.
